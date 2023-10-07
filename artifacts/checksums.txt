@@ -1,0 +1,1 @@
+cf9a358991bdb95141b13203183f96ccfbfa3982a52546efbf13ce6544a5919d  hackathon_contract-aarch64.wasm

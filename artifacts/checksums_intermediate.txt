@@ -1,0 +1,1 @@
+ecf76313b1a98704fa9b9005eb04e833e4c2a181330624862be2c6ac63f85391  /target/wasm32-unknown-unknown/release/hackathon_contract.wasm
